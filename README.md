@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'm Ahmed Farrag👋</h1>
 <h3 align="center">A passionate Developer from Egypt</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsherif010&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsherif010" /> </p>
+![Profile views](https://gpvc.arturio.dev/ahmed-farrag)
 
 
 <p align="center">
