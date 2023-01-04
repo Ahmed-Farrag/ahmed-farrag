@@ -34,7 +34,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -46,8 +46,8 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)\
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![AWS](https://img.shields.io/badge/-Aws-05122A?style=flat&logo=AWS)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker-ide&logoColor=2C2255)\
+![AWS](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
