@@ -13,19 +13,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
-<br>
+
 <img align="right" src="behindComputer.png" width = 250px/>
-	
-<br>
 
-## 📩 Connect with me
-
-<p align="center">
-    <a href="mailto:ahmedfaarrag@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="https://www.facebook.com/ahmed-farrag" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/ahmed-farrag/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-</p>
-	
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -62,7 +52,7 @@
 
 <a href="https://www.linkedin.com/in/ahmed-farrag-110a36202/"><img src="https://img.shields.io/badge/-ahmed%20farrag-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahmedfaarrag@gmail.com"><img src="https://img.shields.io/badge/-ahmedfaarrag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/code_addy/"><img src="https://img.shields.io/badge/-@acode_addy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/code_addy/"><img src="https://img.shields.io/badge/-@code_addy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 ## 📊 Github Stats
 
