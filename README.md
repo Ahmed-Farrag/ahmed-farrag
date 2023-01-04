@@ -8,7 +8,14 @@
 <br>
 <img align="right" src="behindComputer.png" width = 250px/>
 	
+<br>
 
+## 📩 Connect with me
+<p align="center">
+    <a href="mailto:ahmed-farrag@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.facebook.com/ahmed-farrag" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ahmed-farrag/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+</p>
 	
 	
 	
