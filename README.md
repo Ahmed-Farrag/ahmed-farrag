@@ -6,7 +6,10 @@
 
 
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<img align="right" src="https://storyset.com/illustration/programmer/pana/animate?share=57434" width = 250px/>
+	
+<!-- 	Illustration by <a href="https://icons8.com/illustrations/author/TQQ1qAnr9rn5">Oleg Shcherba</a> from <a href="https://icons8.com/illustrations">Ouch!</a> -->
+	
 	
 	
 
