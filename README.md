@@ -50,7 +50,7 @@
 <a href="mailto:ahmedfaarrag@gmail.com"><img src="https://img.shields.io/badge/-ahmedfaarrag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/code_addy/"><img src="https://img.shields.io/badge/-@code_addy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-## 📊 Github Stats
+### 📊 &nbsp;Github Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-farrag&theme=tokyonight_duo" alt="ahmed-farrag" /></p>
   <br/>
