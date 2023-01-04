@@ -2,16 +2,12 @@
 
 <h3 align="center">A passionate Developer from Egypt</h3>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/ahmed-farrag-110a36202/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a></p>
-
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
+### 👨🏻‍💻 &nbsp;About Me
+🔭 &nbsp;I’m currently working on Frontend Web Development.\
+🌱 &nbsp;I’m currently learning Backend Development and  Blockchain.\
+👯 &nbsp;I’m looking to collaborate with Fullstack Web.\
+✍️ &nbsp;In my free time, I pursue UI/UX and photographyas hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
 
 <img align="right" src="behindComputer.png" width = 250px/>
