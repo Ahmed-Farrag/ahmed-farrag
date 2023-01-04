@@ -6,9 +6,9 @@
 
 
 <br>
-<img align="right" src="https://storyset.com/illustration/programmer/pana/animate?share=57434" width = 250px/>
+<img align="right" src="behindComputer.png" width = 250px/>
 	
-<!-- 	Illustration by <a href="https://icons8.com/illustrations/author/TQQ1qAnr9rn5">Oleg Shcherba</a> from <a href="https://icons8.com/illustrations">Ouch!</a> -->
+
 	
 	
 	
