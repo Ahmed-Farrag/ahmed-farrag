@@ -1,8 +1,5 @@
-<h1 align="center"> Hi I'm Ahmed Farrag👋 [website] </h1>
+## <h1 align="center"> Hi I'm Ahmed Farrag👋 [website] </h1> ![Profile views](https://gpvc.arturio.dev/ahmed-farrag)
 <h3 align="center">A passionate Developer from Egypt</h3>
-
-
-## ![Profile views](https://gpvc.arturio.dev/ahmed-farrag)
 
 
 <p align="center">
