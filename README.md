@@ -1,6 +1,6 @@
 ## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website] ![Profile views](https://gpvc.arturio.dev/ahmed-farrag) </h1>
 
-<h3 align="center">A passionate Developer from Egypt</h3>
+<h3 align="center">Front end developer || React.js & React Native</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working on Frontend Web Development.\
