@@ -58,3 +58,9 @@
 
 
 [website]: https://ahmedfarrag.vercel.app/
+
+	<p align="right">
+  <img alt="Signal" height="25px" src="me.png">
+  <br>
+  <em>Addy</em>
+</p>
