@@ -57,5 +57,5 @@
 <br/>
 
 
-[website]: https://ahmedfarrag.vercel.app/
+[website]: https://farrag.vercel.app/
 
