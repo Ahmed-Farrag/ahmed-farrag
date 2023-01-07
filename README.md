@@ -56,5 +56,9 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-farrag&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmed-farrag" height="230px"/>
 <br/>
 
-
+<p align="right">
+  <img alt="Signal" height="25px" src="me.png">
+  <br>
+  <em>Addy</em>
+</p> 
 [website]: https://ahmedfarrag.vercel.app/
