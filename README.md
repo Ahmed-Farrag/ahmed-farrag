@@ -1,10 +1,10 @@
 ## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website] ![Profile views](https://gpvc.arturio.dev/ahmed-farrag) </h1>
 
-<h3 align="center">Front end developer || React.js & React Native</h3>
+<h3 align="center">Front end developer</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working on Frontend Web Development.\
-🌱 &nbsp;I’m currently learning Backend Development and  Blockchain.\
+🌱 &nbsp;I’m  learning Backend Development and  Blockchain.\
 👯 &nbsp;I’m looking to collaborate with Fullstack Web.\
 ✍️ &nbsp;In my free time, I pursue UI/UX and photographyas hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
