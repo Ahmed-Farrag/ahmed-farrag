@@ -22,9 +22,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
-![Node.js](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
-![Node.js](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)\
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
 ![Postgre](https://img.shields.io/badge/-Postgre-05122A?style=flat&logo=Postgresql)\
@@ -36,8 +34,7 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=Adobe-Indesign)
 
