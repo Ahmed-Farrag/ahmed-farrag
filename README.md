@@ -18,11 +18,15 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript&logoColor=2370BE)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=yellow)\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=yellow)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)\
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
 ![Postgre](https://img.shields.io/badge/-Postgre-05122A?style=flat&logo=Postgresql)\
