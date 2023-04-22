@@ -1,7 +1,5 @@
 ## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website] ![Profile views](https://gpvc.arturio.dev/ahmed-farrag) </h1>
 
-<h3 align="center">Front end developer</h3>
-
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working on Frontend Web Development.\
 🌱 &nbsp;I’m  learning Backend Development.\
@@ -18,28 +16,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript&logoColor=2370BE)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next.js)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next.js)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)\
+![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)\
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
-![Postgre](https://img.shields.io/badge/-Postgre-05122A?style=flat&logo=Postgresql)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=Github)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)\
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=Adobe-Indesign)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)\
 
 ### 🤝🏻 &nbsp;Connect with Me
 
