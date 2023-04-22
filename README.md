@@ -6,7 +6,7 @@
 🔭 &nbsp;I’m currently working on Frontend Web Development.\
 🌱 &nbsp;I’m  learning Backend Development.\
 👯 &nbsp;I’m looking to collaborate with Fullstack Web.\
-⚡ &nbsp;I enjoy photography, UX and lifting weights.\
+⚡ &nbsp;I enjoy photography, UX and lifting weights.
 
 
 
