@@ -1,13 +1,12 @@
 ## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website] ![Profile views](https://gpvc.arturio.dev/ahmed-farrag) </h1>
 
+<img align="right" src="behindComputer.png" width = 250px/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working on Frontend Web Development.\
 🌱 &nbsp;I’m  learning Backend Development.\
 👯 &nbsp;I’m looking to collaborate with Fullstack Web.\
 ⚡ &nbsp;I enjoy photography, UX and lifting weights.\
-
-
-<img align="right" src="behindComputer.png" width = 250px/>
 
 
 
@@ -22,11 +21,11 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)\
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)\
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)\
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
