@@ -4,10 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working on Frontend Web Development.\
-🌱 &nbsp;I’m  learning Backend Development and  Blockchain.\
+🌱 &nbsp;I’m  learning Backend Development.\
 👯 &nbsp;I’m looking to collaborate with Fullstack Web.\
-✍️ &nbsp;In my free time, I pursue UI/UX and photographyas hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+⚡ &nbsp;I enjoy photography, UX and lifting weights.\
 
 
 <img align="right" src="behindComputer.png" width = 250px/>
@@ -50,6 +49,9 @@
 <a href="mailto:ahmedfaarrag@gmail.com"><img src="https://img.shields.io/badge/-ahmedfaarrag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/code_addy/"><img src="https://img.shields.io/badge/-@code_addy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
+
+[website]: https://ahmedfarrag.online
+<!-- 
 ### 📊 &nbsp;Github Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-farrag&theme=tokyonight_duo" alt="ahmed-farrag" /></p>
@@ -58,8 +60,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="ahmed-farrag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-farrag&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-farrag&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmed-farrag" height="230px"/>
+	  -->
 <br/>
 
 
-[website]: https://ahmedfarrag.online
+
 
