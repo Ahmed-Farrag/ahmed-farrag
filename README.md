@@ -20,9 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)\
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
