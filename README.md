@@ -1,4 +1,4 @@
-## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website] ![Profile views](https://gpvc.arturio.dev/ahmed-farrag) </h1>
+## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website]  </h1>
 
 <img align="right" src="behindComputer.png" width = 250px/>
 
