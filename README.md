@@ -3,10 +3,10 @@
 <img align="right" src="behindComputer.png" width = 250px/>
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭 &nbsp;I’m currently working on Frontend Web Development.\
-🌱 &nbsp;I’m  learning Backend Development.\
-👯 &nbsp;I’m looking to collaborate with Fullstack Web.\
-⚡ &nbsp;I enjoy photography, UX and lifting weights.
+🔭 &nbsp; I’m currently working on Frontend Web Development.\
+🌱 &nbsp; I’m  learning Blockchain Development.\
+👯 &nbsp; I’m looking to collaborate with Fullstack Web.\
+⚡ &nbsp; I enjoy photography, UX, and lifting weights.
 
 
 
