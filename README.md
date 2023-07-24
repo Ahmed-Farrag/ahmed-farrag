@@ -15,13 +15,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript&logoColor=2370BE)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
-![solidity](https://img.shields.io/badge/-solidity-05122A?style=flat&logo=solidity)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next.js)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)\
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
