@@ -3,11 +3,14 @@
 <img align="right" src="behindComputer.png" width = 250px/>
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭 &nbsp; Software Developer (Full Stack) @NgaMedia, in Cairo.\
+<!--🔭 &nbsp; Software Developer (Full Stack) @NgaMedia, in Cairo.\
 🌱 &nbsp; I’m  learning Blockchain Development.\
 👯 &nbsp; I’m looking to collaborate with Fullstack Web.\
 ⚡ &nbsp; I enjoy photography, UX, and lifting weights.
+-->
 
+👯 &nbsp; I’m looking to collaborate with Frontend Web.\
+⚡ &nbsp; I enjoy photography, UX, and lifting weights.
 
 
 ### 🛠 &nbsp;Tech Stack
