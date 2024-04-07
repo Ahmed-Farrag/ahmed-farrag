@@ -23,7 +23,6 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=Jquery)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=C0392B)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
