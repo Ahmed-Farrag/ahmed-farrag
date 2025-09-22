@@ -155,4 +155,5 @@
     // "terminal.integrated.env.linux": {}, // change 1
     // "console-ninja.featureSet": "Community", // change 2
     // "glassit.alpha": 220, // change 3
+    // "liveServer.settings.donotShowInfoMsg": true, // change 4
 }
