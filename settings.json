@@ -165,5 +165,6 @@
     //   "react-native.android.runArguments.device": [] // change 8
     //   "github.copilot.editor.enableAutoCompletions": true // change 9
     //     "kotlin.languageServer.enabled": false,
-    //   "kotlin.debugAdapter.enabled": false  // change 10
+    //   "kotlin.debugAdapter.enabled": false  // change 10,
+    // "workbench.settings.applyToAllProfiles": [] // change 11
 }
