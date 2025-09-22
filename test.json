@@ -2,7 +2,8 @@
     "explorer.confirmDelete": false,
     "tabnine.experimentalAutoImports": true,
     "files.associations": {
-        ".env*": "dotenv"
+        ".env*": "dotenv",
+        "*.json": "javascript"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": []
@@ -160,4 +161,5 @@
     // "[jsonc]": {
     //     "editor.defaultFormatter": "esbenp.prettier-vscode"
     // }  // change 6
+    // "emulator.emulatorPathLinux": "/home/addy/Android/Sdk/emulator" // change 7
 }
