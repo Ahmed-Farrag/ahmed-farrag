@@ -926,7 +926,7 @@
             "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
         },
         "preRelease": false,
-        "version": "16.1.1",
+        "version": "16.2.1",
         "pinned": false,
         "disabled": true,
         "installed": true,
@@ -1559,7 +1559,7 @@
             "uuid": "aae0701b-111f-49c1-9000-abd37a442f28"
         },
         "preRelease": false,
-        "version": "1.0.686",
+        "version": "1.0.699",
         "pinned": false,
         "disabled": true,
         "installed": true,
