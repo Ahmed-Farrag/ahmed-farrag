@@ -1,17 +1,17 @@
-## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website]  </h1>
+## <h1 align="center"> Hi I'm Ahmed Farrag 👋 [Addy][website] </h1>
 
 <img align="right" src="behindComputer.png" width = 250px/>
 
 ### 👨🏻‍💻 &nbsp;About Me
+
 <!--🔭 &nbsp; Software Developer (Full Stack) @NgaMedia, in Cairo.\
-🌱 &nbsp; I’m  learning Blockchain Development.\
 👯 &nbsp; I’m looking to collaborate with Fullstack Web.\
 ⚡ &nbsp; I enjoy photography, UX, and lifting weights.
 -->
 
-👯 &nbsp; I’m looking to collaborate with Frontend Web.\
+👯 &nbsp; I'm Software Developer with +5 years experience.\
+🌱 &nbsp; I’m learning Machine Learning.\
 ⚡ &nbsp; I enjoy photography, UX, and lifting weights.
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,9 +35,9 @@
 <a href="mailto:ahmedfaarrag@gmail.com"><img src="https://img.shields.io/badge/-ahmedfaarrag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/code_addy/"><img src="https://img.shields.io/badge/-@code_addy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
+[website]: https://farrag.vercel.app/
 
-[website]: https://ahmedfarrag.online
-<!-- 
+<!--
 ### 📊 &nbsp;Github Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-farrag&theme=tokyonight_duo" alt="ahmed-farrag" /></p>
@@ -54,7 +54,3 @@
 
 	  -->
 <br/>
-
-
-
-
