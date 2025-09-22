@@ -99,7 +99,6 @@
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "explorer.confirmDragAndDrop": false,
     "git.autofetch": true,
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -154,4 +153,5 @@
     "editor.fontSize": 18,
     // "terminal.integrated.env.linux": {}, // change 1
     // "console-ninja.featureSet": "Community", // change 2
+    // "glassit.alpha": 220, // change 3
 }
