@@ -1111,6 +1111,16 @@
     },
     {
         "identifier": {
+            "id": "mightbesimon.emoji-icons",
+            "uuid": "e5365a62-80a6-4943-b7c7-b448e69349d8"
+        },
+        "preRelease": false,
+        "version": "1.6.1",
+        "pinned": false,
+        "installed": true
+    },
+    {
+        "identifier": {
             "id": "mongodb.mongodb-vscode",
             "uuid": "4b6540da-bfa3-4b88-b9e3-df8f2d161124"
         },
