@@ -764,9 +764,12 @@
             "uuid": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0"
         },
         "preRelease": false,
-        "version": "1.10.4",
+        "version": "1.12.6",
         "pinned": false,
-        "installed": true
+        "installed": true,
+        "state": {
+            "intelephenseVersion": "1.12.5"
+        }
     },
     {
         "identifier": {
