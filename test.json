@@ -162,4 +162,5 @@
     //     "editor.defaultFormatter": "esbenp.prettier-vscode"
     // }  // change 6
     // "emulator.emulatorPathLinux": "/home/addy/Android/Sdk/emulator" // change 7
+    //   "react-native.android.runArguments.device": [] // change 8
 }
