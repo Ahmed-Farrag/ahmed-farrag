@@ -802,11 +802,11 @@
             "uuid": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0"
         },
         "preRelease": false,
-        "version": "1.12.6",
+        "version": "1.14.4",
         "pinned": false,
         "installed": true,
         "state": {
-            "intelephenseVersion": "1.12.5"
+            "intelephenseVersion": "1.12.6"
         }
     },
     {
@@ -926,7 +926,7 @@
             "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
         },
         "preRelease": false,
-        "version": "16.3.0",
+        "version": "17.0.3",
         "pinned": false,
         "disabled": true,
         "installed": true,
@@ -1559,7 +1559,7 @@
             "uuid": "aae0701b-111f-49c1-9000-abd37a442f28"
         },
         "preRelease": false,
-        "version": "1.0.699",
+        "version": "1.0.708",
         "pinned": false,
         "disabled": true,
         "installed": true,
