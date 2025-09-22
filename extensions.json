@@ -902,6 +902,16 @@
     },
     {
         "identifier": {
+            "id": "docker.docker",
+            "uuid": "aa98a064-0f79-4961-a4b7-78df16d547ee"
+        },
+        "preRelease": false,
+        "version": "0.4.9",
+        "pinned": false,
+        "installed": true
+    },
+    {
+        "identifier": {
             "id": "dsznajder.es7-react-js-snippets",
             "uuid": "19804510-b475-4dae-b0f7-6ca08fd1af0c"
         },
