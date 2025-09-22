@@ -433,6 +433,14 @@
     },
     {
         "identifier": {
+            "id": "vscode.prompt"
+        },
+        "preRelease": false,
+        "version": "1.0.0",
+        "pinned": false
+    },
+    {
+        "identifier": {
             "id": "vscode.pug"
         },
         "version": "1.0.0",
