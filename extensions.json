@@ -1418,6 +1418,17 @@
         "preRelease": false,
         "version": "3.206.0",
         "pinned": false,
+        "disabled": true,
+        "installed": true
+    },
+    {
+        "identifier": {
+            "id": "thinker.font-awesome",
+            "uuid": "a32a29f0-f27c-4958-b370-80752a7fcf5d"
+        },
+        "preRelease": false,
+        "version": "5.2.3",
+        "pinned": false,
         "installed": true
     },
     {
