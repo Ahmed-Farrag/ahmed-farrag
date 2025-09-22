@@ -3,7 +3,7 @@
     "tabnine.experimentalAutoImports": true,
     "files.associations": {
         ".env*": "dotenv",
-        "*.json": "javascript"
+        "*.json": "javascript" // or json
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": []
