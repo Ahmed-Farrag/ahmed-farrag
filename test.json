@@ -99,6 +99,7 @@
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "explorer.confirmDragAndDrop": false,
     "git.autofetch": true,
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
