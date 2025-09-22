@@ -936,7 +936,7 @@
             "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
         },
         "preRelease": false,
-        "version": "17.1.0",
+        "version": "17.1.1",
         "pinned": false,
         "disabled": true,
         "installed": true,
@@ -1115,16 +1115,6 @@
         },
         "preRelease": false,
         "version": "1.30.0",
-        "pinned": false,
-        "installed": true
-    },
-    {
-        "identifier": {
-            "id": "mightbesimon.emoji-icons",
-            "uuid": "e5365a62-80a6-4943-b7c7-b448e69349d8"
-        },
-        "preRelease": false,
-        "version": "1.6.1",
         "pinned": false,
         "installed": true
     },
@@ -1569,7 +1559,7 @@
             "uuid": "aae0701b-111f-49c1-9000-abd37a442f28"
         },
         "preRelease": false,
-        "version": "1.0.721",
+        "version": "1.0.722",
         "pinned": false,
         "disabled": true,
         "installed": true,
