@@ -167,4 +167,8 @@
     //     "kotlin.languageServer.enabled": false,
     //   "kotlin.debugAdapter.enabled": false  // change 10,
     // "workbench.settings.applyToAllProfiles": [] // change 11
+    // "files.associations": {
+    //     "*.tsx": "typescriptreact"
+    // },
+    // "settingsSync.ignoredSettings": [] // change 12
 }
