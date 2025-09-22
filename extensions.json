@@ -788,6 +788,16 @@
     },
     {
         "identifier": {
+            "id": "bierner.emojisense",
+            "uuid": "081cd2e9-bc51-4ea3-977e-544bed2e33a8"
+        },
+        "preRelease": false,
+        "version": "0.10.0",
+        "pinned": false,
+        "installed": true
+    },
+    {
+        "identifier": {
             "id": "bmewburn.vscode-intelephense-client",
             "uuid": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0"
         },

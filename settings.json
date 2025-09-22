@@ -171,4 +171,5 @@
     //     "*.tsx": "typescriptreact"
     // },
     // "settingsSync.ignoredSettings": [] // change 12
+    //   "typescript.updateImportsOnFileMove.enabled": "always"
 }
