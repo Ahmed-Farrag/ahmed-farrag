@@ -3,7 +3,8 @@
     "tabnine.experimentalAutoImports": true,
     "files.associations": {
         ".env*": "dotenv",
-        "*.json": "javascript" // or json
+        "*.json": "json", // or javascript
+        "*.tsx": "typescriptreact"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": []
@@ -153,23 +154,20 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.fontSize": 18,
-    // "terminal.integrated.env.linux": {}, // change 1
-    // "console-ninja.featureSet": "Community", // change 2
-    // "glassit.alpha": 220, // change 3
-    // "liveServer.settings.donotShowInfoMsg": true, // change 4
-    // "react-native-tools.logLevel": "Debug", // change 5
-    // "[jsonc]": {
-    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
-    // }  // change 6
-    // "emulator.emulatorPathLinux": "/home/addy/Android/Sdk/emulator" // change 7
-    //   "react-native.android.runArguments.device": [] // change 8
-    //   "github.copilot.editor.enableAutoCompletions": true // change 9
-    //     "kotlin.languageServer.enabled": false,
-    //   "kotlin.debugAdapter.enabled": false  // change 10,
-    // "workbench.settings.applyToAllProfiles": [] // change 11
-    // "files.associations": {
-    //     "*.tsx": "typescriptreact"
-    // },
-    // "settingsSync.ignoredSettings": [] // change 12
-    //   "typescript.updateImportsOnFileMove.enabled": "always"
+    "terminal.integrated.env.linux": {}, // change from here
+    "console-ninja.featureSet": "Community",
+    "glassit.alpha": 220,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "react-native-tools.logLevel": "Debug",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emulator.emulatorPathLinux": "/home/addy/Android/Sdk/emulator",
+    "react-native.android.runArguments.device": [],
+    "github.copilot.editor.enableAutoCompletions": true,
+    "kotlin.languageServer.enabled": false,
+    "kotlin.debugAdapter.enabled": false,
+    "workbench.settings.applyToAllProfiles": [],
+    "settingsSync.ignoredSettings": [],
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }
