@@ -1040,7 +1040,7 @@
             "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
         },
         "preRelease": false,
-        "version": "1.368.0",
+        "version": "1.372.0",
         "pinned": false,
         "installed": true
     },
@@ -1112,9 +1112,8 @@
             "uuid": "3792588c-3d35-442d-91ea-fe6a755e8155"
         },
         "preRelease": false,
-        "version": "3.13.0",
+        "version": "3.21.0",
         "pinned": false,
-        "disabled": true,
         "installed": true
     },
     {
@@ -1360,6 +1359,16 @@
     },
     {
         "identifier": {
+            "id": "repreng.csv",
+            "uuid": "f2e80b0c-f33b-40ca-a3a5-bdaf53823a83"
+        },
+        "preRelease": false,
+        "version": "1.2.2",
+        "pinned": false,
+        "installed": true
+    },
+    {
+        "identifier": {
             "id": "robindeblauwe.bootstrap-docs",
             "uuid": "9cc2d59b-be6f-46e8-835b-074419d051df"
         },
@@ -1578,7 +1587,7 @@
             "uuid": "aae0701b-111f-49c1-9000-abd37a442f28"
         },
         "preRelease": false,
-        "version": "1.0.737",
+        "version": "1.0.739",
         "pinned": false,
         "disabled": true,
         "installed": true,
